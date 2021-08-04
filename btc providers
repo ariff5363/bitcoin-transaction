@@ -1,0 +1,2 @@
+//Set the default main network balance provider to blockchain.info instead of blockexplorer.com
+bitcoinTransaction.providers.balance.mainnet.default = bitcoinTransaction.providers.balance.mainnet.blockchain;
